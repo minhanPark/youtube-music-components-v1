@@ -1,0 +1,14 @@
+@import url("https://fonts.cdnfonts.com/css/youtube-sans");
+
+.font-wrapper {
+  font-family:
+    YouTube Sans,
+    Roboto,
+    Noto Naskh Arabic UI,
+    Arial,
+    sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  color: #fff;
+  letter-spacing: normal;
+}
